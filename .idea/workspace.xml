@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9f7d867-17cc-4151-b6b0-1948aaa27514" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yuq5RtqDgEkGpm19oMDqSnX5pW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="coverage" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Gemm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gemm" />
+      <module name="Gem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Gemm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9f7d867-17cc-4151-b6b0-1948aaa27514" name="Default Changelist" comment="" />
+      <created>1583802645683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583802645683</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1294" height="381" key="GridCell.Tab.0.bottom" timestamp="1583807008225">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="1294" height="381" key="GridCell.Tab.0.bottom/0.23.2560.1333@0.23.2560.1333" timestamp="1583807008225" />
+    <state width="1294" height="381" key="GridCell.Tab.0.center" timestamp="1583807008224">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="1294" height="381" key="GridCell.Tab.0.center/0.23.2560.1333@0.23.2560.1333" timestamp="1583807008224" />
+    <state width="1294" height="381" key="GridCell.Tab.0.left" timestamp="1583807008223">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="1294" height="381" key="GridCell.Tab.0.left/0.23.2560.1333@0.23.2560.1333" timestamp="1583807008223" />
+    <state width="1294" height="381" key="GridCell.Tab.0.right" timestamp="1583807008224">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="1294" height="381" key="GridCell.Tab.0.right/0.23.2560.1333@0.23.2560.1333" timestamp="1583807008224" />
+    <state x="1520" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1583802651750">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="1520" y="524" key="com.intellij.ide.util.TipDialog/0.23.2560.1333@0.23.2560.1333" timestamp="1583802651750" />
+    <state x="1529" y="327" key="search.everywhere.popup" timestamp="1583804144355">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="1529" y="327" key="search.everywhere.popup/0.23.2560.1333@0.23.2560.1333" timestamp="1583804144355" />
+  </component>
+</project>
